@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'FontEtiquette';
+src: url('SelfModern-Regular.ttf');
+src: url('SelfModern-Regular.svg') format('svg'),
+     url('SelfModern-Regular.woff') format('woff'),
+     url('SelfModern-Regular.eot') format('embedded-opentype');
+font-weight: normal;
+font-style: normal;
+}
